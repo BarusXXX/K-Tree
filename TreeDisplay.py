@@ -30,7 +30,7 @@ GlobalInfo = ProgramInfo()
 
 root = Tk()
 
-root.iconbitmap("\\Icons\\136517-file-types\\ico\\Tree.ico")
+root.iconbitmap("\\icon\\Tree.ico")
 
 
 menu = Menu(root)
